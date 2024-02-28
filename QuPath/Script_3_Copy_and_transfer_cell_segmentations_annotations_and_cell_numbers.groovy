@@ -10,7 +10,7 @@ def matrix = [
 ]
 
 // SET ME! Define image containing the original objects (must be in the current project)
-def otherImageName = ‘Please insert the name of the root image here’
+def otherImageName = 'Please insert the name of the root image here'
 
 // SET ME! Delete existing objects
 def deleteExisting = false
