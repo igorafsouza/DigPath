@@ -41,4 +41,4 @@ return
 
 stardist.detectObjects(imageData, pathObjects)
 
-println 'Done!
+println 'Done!'
